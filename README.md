@@ -6,14 +6,14 @@ JLCPCB design rules and stackups for Altium Designer.
 Design rules include:
 
   - 2 layer
-    - 1 oz copper
-    - 2 oz copper
+    - 1 oz copper: 5mil trace & clearance, 0.3mm hole, 0.6mm via diameter
+    - 2 oz copper: 8mil trace & clearance, 0.3mm hole, 0.6mm via diameter
   - 4 layer
-    - 1 oz copper on top & bottom layers
-    - 2 oz copper on top & bottom layers
+    - 1 oz copper on top & bottom layers: 3.5mil trace & clearance on all layers, 5mil via clearance, 0.2mm hole, 0.45mm via diameter
+    - 2 oz copper on top & bottom layers: 3.5mil trace & clearance on mid layers, 5mil via clearance, 8mil trace & clearance on top & bottom layers, 0.2mm hole, 0.45mm via diameter
   - 6 layer
-    - 1 oz copper on top & bottom layers
-    - 2 oz copper on top & bottom layers
+    - 1 oz copper on top & bottom layers: 3.5mil trace & clearance on all layers, 5mil via clearance, 0.2mm hole, 0.45mm via diameter
+    - 2 oz copper on top & bottom layers: 3.5mil trace & clearance on mid layers, 5mil via clearance, 8mil trace & clearance on top & bottom layers, 0.2mm hole, 0.45mm via diameter
 
 Layer stackups include:
 
