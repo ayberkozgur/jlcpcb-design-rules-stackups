@@ -17,7 +17,21 @@ Design rules
       - 0.3mm min. hole diameter
       - 0.6mm min. via diameter
       - 0.25mm hole clearance
-  - 4 layer / 6 layer
+  - 4 layer
+    - 1 oz copper on top & bottom layers, 0.5 oz copper on mid layers
+      - 4mil trace width & clearance on all layers
+      - 0.2mm min. hole diameter
+      - 0.45mm min. via diameter
+      - 5mil via clearance
+      - 0.25mm hole clearance
+    - 2 oz copper on top & bottom layers, 0.5 oz copper on mid layers
+      - 4mil trace width & clearance on mid layers
+      - 8mil trace width & clearance on top & bottom layers
+      - 0.2mm min. hole diameter
+      - 0.45mm min. via diameter
+      - 5mil via clearance
+      - 0.25mm hole clearance
+  - 6 layer
     - 1 oz copper on top & bottom layers, 0.5 oz copper on mid layers
       - 3.5mil trace width & clearance on all layers
       - 0.2mm min. hole diameter
